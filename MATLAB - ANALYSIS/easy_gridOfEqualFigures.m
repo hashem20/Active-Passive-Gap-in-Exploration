@@ -1,11 +1,6 @@
 function [ax, hb, wb, ax2] = easy_gridOfEqualFigures(hg, wg, fignum)
 
-% gridOfEqualFigures.m
 % ax = gridOfEqualFigures(hg, wg, fignum)
-
-% Robert Wilson
-% 23-Mar-2010
-
 
 hb = (ones(length(hg)-1,1)-sum(hg)) / (length(hg)-1);
 wb = (ones(length(wg)-1,1)-sum(wg)) / (length(wg)-1);
