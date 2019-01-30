@@ -1,0 +1,15 @@
+classdef soundBandit < handle
+    
+    properties
+    end
+    
+    methods
+        
+        function obj = soundBandit
+        end
+        
+        
+        
+    end
+    
+end

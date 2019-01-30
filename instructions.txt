@@ -1,0 +1,34 @@
+Welcome! Thank you for volunteering for this experiment
+
+In this task we will measure the diameter of your pupils while you are performing a simple gambling task.  In order for us to measure you pupil diameter accurately we ask that you try to fixate on the small fixation cross above throughout the experiment.
+
+The task you will perform involves playing a series of games in which you have to make decisions between two different slot machines.  Every time a slot machine is payed it pays out a reward between 1 and 100 points.  
+
+Because we are measuring the diameter of your pupils the computer will not show you the outcome of your choice as this might change the amount of light going into your eyes and hence change your pupil diameter.  Instead we will have the computer tell you the reward value that you earned.  Furthermore, you will only hear this sound in the ear corresponding to the choice that you made.  Press 1 to hear an example outcome in the left ear.  Press 2 to hear an example outcome in the right ear.
+
+In each game, the average payoff from each slot machine is fixed, but on any given play there is variability in the exact amount.
+
+For example, the mean payoff from the left slot machine might be 50 points but on any trial you might receive more or less than 50 points randomly - say 52 points on the first play ... (press 1 to hear sound)
+
+... 56 on the second ... (press 1 to hear sound)
+
+...and 45 on the third. (press 1 to hear sound)
+
+This variability makes it difficult to figure out which is the best slot machine, but that is exactly what you need to do to maximize your payoff from the game.
+
+At the beginning of each game the computer will first tell you how many choices you have in this game.  There will either be just 1 choice (press 1 to hear sound) ...
+
+... or 6 choices (press 1 to hear sound)
+
+After you have heard the number of choices you should then press space again to have the computer play the slot machines randomly four times.  This is done to give you some information about both options before you start making decisions.  Press 1 now to hear an example of four computer generated plays.
+
+At the end of a game the mean payoff of both slot machines changes. When this happens the cross will dissappear.  When the cross returns, a new game begins.  This will also be announced.
+
+
+
+
+
+
+
+
+
